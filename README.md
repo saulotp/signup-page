@@ -12,6 +12,16 @@ HOVER: the form container is dark, then when mouse pass above some input, backgr
 
 FOCUS: When user writing something on input, the text-color appears as black, but when user click on anyother input, text-color changes to white for a better contrast with form background-color.
 
+/_-----------------------------------------_/
+update 25-03 - Repairing page to be responsive on mobile plataform.
+
+What did I learn?
+
+-Hover and Focus funcionalities
+-@media for build a responsive page.
+
+/_------------------------------------------_/
+
 that's all for now.
 
 Contact me for any suggestions or help me to improve my DEV skills I will love it <3
